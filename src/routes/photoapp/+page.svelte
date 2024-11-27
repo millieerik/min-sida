@@ -11,7 +11,8 @@ let picture = "https://picsum.photos/id/93/367/267"
 
 </script>
 
-    <h1>Photomapp</h1>
+    <h1>Photoapp</h1>
+
     <p>Denna sida innehåller <strong>fina</strong> bilder</p>
 <div class="photos">
     <div class= "image-wrapper"><img src={image} alt="Flexbox egenskaper"></div>

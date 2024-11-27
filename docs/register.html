@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="./favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		
+		<link href="./_app/immutable/assets/0.DM4cBqch.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/5.Bdc207xd.css" rel="stylesheet">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.D0fQ6WOf.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/entry.wyAq7zSp.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.NrZV1iTz.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.DfnQekQk.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/paths.B9dhmykS.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.CC7GyHip.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.BgDuTIW7.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/0.5KKq3s0b.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/5.BFU5Ofc0.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/user.CIJRMkxj.js">
+	</head>
+	<body data-sveltekit-preload-data="hover" data-theme="skeleton">
+		<div style="display: contents">  <nav data-svelte-h="svelte-1n5m1vo"><a href="./photoapp">Photo App</a> <a href="./register">register</a> <a href="./login">login</a></nav>  <main class="svelte-1vj3mf0"><div class="container svelte-1vj3mf0"><h1 data-svelte-h="svelte-issj3d">Register</h1> <div style="width: 100px; height: 100px; border-radius: 50%; overflow:hidden; background-color:black;"></div> <form><label for="name" data-svelte-h="svelte-t4ghih">Namn:</label> <input type="text" id="name" class="svelte-1vj3mf0" value=""> <label for="mail" data-svelte-h="svelte-13t1ajy">Mail</label> <input type="email" id="email" class="svelte-1vj3mf0" value=""> <label for="password" data-svelte-h="svelte-1cn65g">Lösenord</label> <input type="password" id="password" class="svelte-1vj3mf0" value=""> <label for="Favoritfärg" data-svelte-h="svelte-1lufth6">Favoritfärg</label> <select name="Favoritfärg" id="text" class="svelte-1vj3mf0"><option value="blue" data-svelte-h="svelte-ah6lgh">Blå</option><option value="Pink">Rosa</option><option value="red">Röd</option><option value="orange">Orange</option></select> <input id="submit" type="submit" value="Registera" class="svelte-1vj3mf0"></form> <p data-svelte-h="svelte-1o31lvj">Har du redan ett konto? <a href="/login" class="svelte-1vj3mf0">Logga in</a></p></div> </main> 
+			
+			<script>
+				{
+					__sveltekit_1ewxhte = {
+						base: new URL(".", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("./_app/immutable/entry/start.D0fQ6WOf.js"),
+						import("./_app/immutable/entry/app.CC7GyHip.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 5],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

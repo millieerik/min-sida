@@ -24,5 +24,17 @@
 </script>
 <nav>
 	<a href="{base}/photoapp">Photo App</a>
+	<a href="{base}/register">register</a>
+	<a href="{base}/login">login</a>
 </nav>
+<style>
+	
+:global(body), :global(html){
+  margin: 0%;
+  padding: 0%;
+  height: 100vh;
+  width: 100vw;
+}    
+
+</style>
 <slot />
