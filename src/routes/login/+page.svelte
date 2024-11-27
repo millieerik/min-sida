@@ -20,7 +20,7 @@
 import {users_store} from "$lib/user";
 let users = [];
 
-
+import { base } from '$app/paths';
 import { onMount } from 'svelte';
 onMount(() => {
     /*Check if has more then 2 characters*/
@@ -46,7 +46,7 @@ onMount(() => {
         <input type="submit" id="submit" value="Logga in" > 
 
     </form>
-    <p>Behöver du skapa ett konto? <a href="/register">Registera</a></p>
+    <p>Behöver du skapa ett konto? <a href="{base}/register">Registera</a></p>
     </div>
  
 </main>

@@ -1,4 +1,6 @@
 <script>
+	import { base } from "$app/paths";
+
     let color= "black"
     let email=""
     let name= ""
@@ -59,7 +61,7 @@ onMount(() => {
             </select>
         <input id="submit" type="submit" value="Registera" > 
     </form>
-    <p>Har du redan ett konto? <a href="/login">Logga in</a></p>
+    <p>Har du redan ett konto? <a href="{base}/login">Logga in</a></p>
     </div>
  
 </main>
