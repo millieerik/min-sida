@@ -112,10 +112,7 @@ input{
     background-color: pink
 }
 
-.text{
-    
-  
-}
+
 
 a{
     text-decoration: underline;
