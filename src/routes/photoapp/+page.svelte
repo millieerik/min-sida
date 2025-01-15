@@ -49,7 +49,7 @@ let picture = "https://picsum.photos/id/93/367/267"
     }
     .image-wrapper:hover{
         flex-grow:2;
-        flex-shrink: 0;
+        flex-shrink:0;
         
     }
     .image-wrapper:active{
