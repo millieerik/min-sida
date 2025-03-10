@@ -16,7 +16,7 @@ function randomizeLetters(){
 
 }
 
-for (let letters of stringLeter){
+for (let letters of stringLetter){
     let top = Math.random() *80 
     let left = Math.random() * 80
     letters.push({letter: letter, top:top, left:left})
