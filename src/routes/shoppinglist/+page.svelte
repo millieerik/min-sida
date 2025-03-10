@@ -1,7 +1,7 @@
 <script>
 	import Container from "postcss/lib/container";
     import { fade } from 'svelte/transition';
-let varor =[{name:"Mjölk",kopt:false, number:1}];
+let varor =[{name:"",kopt:false, number:1}];
 let köptvaror=[{name:"Mjölk"}]
 let item = ""
 let number= 0

@@ -26,6 +26,7 @@
 	<a href="{base}/photoapp">Photo App</a>
 	<a href="{base}/register">register</a>
 	<a href="{base}/login">login</a>
+	<a href="{base}/nike.kläder"> Shop</a>
 </nav>
 <style>
 	
