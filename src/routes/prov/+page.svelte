@@ -1,7 +1,7 @@
 <script>
 
 let number=""
-let list=array(5)
+let list=Array(5)
 
 function add(number){
    
