@@ -39,9 +39,6 @@ function add(number){
 
 
  
-main{
-    
-}
 
 .container{
     display: grid;
