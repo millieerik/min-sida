@@ -7,7 +7,7 @@ randomizeLetters()
 function randomizeLetters(){
     let letters = []
 
-    for (let letters of stringLetter){
+    for (let letter of stringLetter){
         let top = Math.random() *80 
         let left = Math.random() * 80
         letters.push({letter: letter, top:top, left:left})
@@ -16,7 +16,7 @@ function randomizeLetters(){
 
 }
 
-for (let letters of stringLetter){
+for (let letter of stringLetter){
     let top = Math.random() *80 
     let left = Math.random() * 80
     letters.push({letter: letter, top:top, left:left})
@@ -35,7 +35,7 @@ setInterval(() => {
     let letters = []
 
 
-    for (let letters of stringLeter){
+    for (let letter of stringLetter){
         let top = Math.random() *80 
         let left = Math.random() * 80
         letters.push({letter: letter, top:top, left:left})
