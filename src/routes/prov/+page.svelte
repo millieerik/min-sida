@@ -21,7 +21,25 @@ function add(number){
 </div>
 </main>
 
+
+<body>
+<div id="ball" class="colored"></div>
+<div id="cube" class="colored"></div>
+</body>
+
 <style>
+#ball{
+
+background-color: blue;
+}
+#cube {
+height: 20px;
+background-color: blue;
+}
+.colored {
+height: 0px;
+background-color: red;
+}
 
 .grid-box1{
     display: grid;

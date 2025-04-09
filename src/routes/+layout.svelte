@@ -22,12 +22,16 @@
 	storePopup.set({ computePosition, autoUpdate, flip, shift, offset, arrow });
 	import { base } from '$app/paths';
 </script>
-<nav>
+<!-- <nav>
 	<a href="{base}/photoapp">Photo App</a>
 	<a href="{base}/register">register</a>
 	<a href="{base}/login">login</a>
 	<a href="{base}/nike.kläder"> Shop</a>
-</nav>
+	<a href="{base}/Memory"> Memory</a>
+
+	<a href="{base}/search"> Pokemon</a>
+	
+</nav> -->
 <style>
 	
 :global(body), :global(html){

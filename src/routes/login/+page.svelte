@@ -47,7 +47,7 @@ onMount(() => {
 
     </form>
     <p>Behöver du skapa ett konto? <a href="{base}/register">Registera</a></p>
-    </div>
+</div>
  
 </main>
 <style>

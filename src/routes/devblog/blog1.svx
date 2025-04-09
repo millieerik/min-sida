@@ -1,0 +1,25 @@
+---
+title: "Blog 1"
+date: "2025-04-09"
+---
+
+# Blog 1👋
+# Beskrivning
+Jag har nu startat med mitt protjekt "Var är resedestinationen för dig?" det som är tanken med sidan 
+är att man ska kunna lägga in datumet man ska resa iväg och komma hem för att sedan 
+bli tilldelad den destination som har högst temperatur.
+
+# Hur det går
+
+-Det jag har gjort är att gjort grunden till en startsida till mitt prodjekt.
+Jag har även lagt till en API fårn sidan "https://open-meteo.com/en/docs/historical-weather-apisom" kommer kunna med hjälp av kordinater. 
+
+-Jag har lagt upp en planering för hur projektet ska fortsätta och 
+hur jag ska komma till slut målet med den färdiga hemsidan. 
+
+-Jag har lagt till en kalender som sedan är kopplad till temperaturerna som är koplad till APIn.
+
+
+<br>
+<br>
+Published: 2025-04-09
