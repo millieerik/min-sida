@@ -1,0 +1,40 @@
+---
+title: "Blog 2"
+date: "2025-05-07"
+---
+
+# Blog 2👋
+# Beskrivning
+Jag jobbar på på mitt projekt som går ut på att man ska samanställa olika resedestinationer
+som man sedan ska jämföra temeperatur vid de datumen som besökaren ska resa mellan.
+
+# Hur det går
+Just nu har jag hunnit andvända mig utav en AIP som har data för alla platsers kordinater.
+Jag har då först byggt upp en startsida.
+
+Det som jag gjort de senaste lektionerna.
+-Jag har fortsatt följa planeringen som jag lagt upp.
+
+-Jag har samanställt vilka decitnationer jag ska andvända mig av och tagit fram deras kordinater.
+
+-Jag har lagt in två kalendrar som tar in vär derna och outputtar sedan vilka datum som vistelsen ska vara.
+
+-Jag har även lagt till så att de datum som är markerade ska den genomsnittliga
+ temperaturen som varit de senaste 10 åren visas, för att få ett så troligt resultat som möjligt.
+
+-Jag har även börjat styla min hemsida så att den är mer strukturerad och tydlig
+
+# Vad som kommer näst
+
+Jag har kommit en bit på vägen men har fortfarande mycket kvar. 
+Det som jag håller på att göra just nu är att andvända mig av de olika kordinarerna 
+för att sedan jämföra de olika resultaten, för att veta vilken stad som har högst temperatur
+under tiden peronen ska ut och resa.
+
+Efter detta ska mer styling ska göras. Sedan ska även en sida med information om varje destination
+finnas som personen ska kunna kolla in och ta del av för att veta om resedestinationen är något för den.
+
+
+<br>
+<br>
+Published: 2025-05-07
