@@ -1,0 +1,33 @@
+---
+title: "Blog 3"
+date: "2025-05-21"
+---
+
+# Blog 3👋
+
+# Vad jag gjort sedan sist:
+
+-Sedan sist så har jag framförallt sätt till att den destination som har högst medeltemeperatur 
+outputtas på hemsidan
+-Sedan lagt in bilder för varje destination så att det kommer upp när landet med högst temperatur är valt.
+
+
+# Problem jag stött på:
+De främsta problem jag stött på är:
+
+-Att lägga in bilder som ska komma upp på sidan
+-Att AIPn har begränsad andvändning.
+-Hur man ska kunna kombinera de två kalenderna för att få in en total tidsperiod.
+
+# Vad som kommer näst:
+
+Det jag ska göra nu är att:
+- Göra sidor för varje destination, detta inefattar mycket saker
+  Såsom. Styling, information om staden, UV, mini turist guid.
+- Fortsätta styla hemsidan.
+
+
+
+<br>
+<br>
+Published: 2025-05-21

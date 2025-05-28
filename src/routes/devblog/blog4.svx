@@ -1,0 +1,26 @@
+---
+title: "Blog 4"
+date: "2025-06-28"
+---
+
+# Blog 4👋
+
+# Hur projektet har gick:
+Jag skulle säga att själva projektet har gått mcyket bra, men det har funnsit svårigheter på vägen som varit kluriga.
+Jag lyckades att följa stora delar utav min projektplan och resultatet blev någorlunda bra. 
+Jag fick med alla de viktigaste skerna, så som en fungerande kaländer, olika destinationer, APIn samarbetade med kalender, jämförelsen mellan de olika orterna
+och att allt i slutändan samspelade och att dett resultat kunde ges till besökaren utav hemsidan.
+
+# Hur mycket han jag med:
+Jag skulle säag att jag han med det allra viktigaste.
+-
+
+
+# Vad finns kvar att utveckla:
+
+# Största lärdommen:
+
+
+<br>
+<br>
+Published: 2025-06-28
