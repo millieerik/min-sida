@@ -1,6 +1,6 @@
 ---
 title: "Blog 4"
-date: "2025-06-28"
+date: "2025-05-29"
 ---
 
 # Blog 4👋
@@ -12,15 +12,59 @@ Jag fick med alla de viktigaste skerna, så som en fungerande kaländer, olika d
 och att allt i slutändan samspelade och att dett resultat kunde ges till besökaren utav hemsidan.
 
 # Hur mycket han jag med:
-Jag skulle säag att jag han med det allra viktigaste.
--
+-Jag skulle säga att jag han med det allra viktigaste
+
+-Start sida som leder til
+
+-Värmekalender
+
+-Kaländrar som synkar med en apisom
+
+-Värden som togs in för de 10 senaste åren
+
+-6 olika destinationer som var innlagda
+
+-Gämföra de olika destinationerna 
+
+-outputta de varmaste destinationerna.
+
+-Lägga till bilder till alla destinationer.
+
+-Göra en länk till en ytterligare hemsida
 
 
 # Vad finns kvar att utveckla:
+-Jag skulle behövt göra specifika hemsidor för varje destination
+
+-Fler destinationer.
+
+-Snyggare styling och mer inspererande bilder
+
+-Fler olika valmöjligheter och napassningar så man akn utforma resan efter sina behov.
+
 
 # Största lärdommen:
 
+-Saker tar längre tid än man tror.
+
+-Hur man andvänder en API.
+
+-Hur man kan andvända sig av latitu och lnongitud.
+
+-Hur man stylar olika saker mer djupgående.
+
+-Mycket om hur man jämför olika värden.
+
+-Hur man andvänder fuktioner och ifsatser vid olikatillfällen.
+
+-Hur man andvänder en kalender samankopplat med en API.
+
+-Hur man gör bilder til länkar.
+
+-Hur man kan göra flera olika typer av knappar, med länkar i etc.
+
+
 
 <br>
 <br>
-Published: 2025-06-28
+Published: 2025-05-29
